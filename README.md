@@ -21,15 +21,15 @@ A curated collection of SQL Server interview questions, solutions, and database 
 
 ## Repository Structure
 
-├── SQL-Basics
-├── Joins
-├── CTEs
-├── Window-Functions
-├── Indexing
-├── Stored-Procedures
-├── LeetCode-Solutions
-├── Interview-Questions
-└── Performance-Tuning
+SQL-Basics
+Joins
+CTEs
+Window-Functions
+Indexing
+Stored-Procedures
+LeetCode-Solutions
+Interview-Questions
+Performance-Tuning
 
 ## Target Audience
 
