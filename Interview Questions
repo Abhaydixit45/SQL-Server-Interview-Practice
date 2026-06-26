@@ -10,4 +10,4 @@ WHERE w1.temperature > w2.temperature;
 ---
 
 
-Ques 2:- 
+Ques 2:-
